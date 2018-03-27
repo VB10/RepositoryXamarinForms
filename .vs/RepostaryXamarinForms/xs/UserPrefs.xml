@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{65C74C55-D0C6-41AE-97E3-76C2D1B30C34}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Views/AddPage.xaml.cs">
+    <Files>
+      <File FileName="Views/AddPage.xaml.cs" Line="27" Column="57" />
+      <File FileName="Service/HardwareService.cs" Line="57" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/vb/Projects/RepostaryXamarinForms/Service/HardwareService.cs" relfile="Service/HardwareService.cs" line="54" column="1" />
+      <Breakpoint file="/Users/vb/Projects/RepostaryXamarinForms/Service/HardwareService.cs" relfile="Service/HardwareService.cs" line="71" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.RepostaryXamarinForms FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.RepostaryXamarinForms.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.CB721E95-99A2-409A-8729-444DCAB6AA12">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.RepostaryXamarinForms.iOS>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.RepostaryXamarinForms.Droid PreferredExecutionTarget="Android.test" />
+</Properties>
